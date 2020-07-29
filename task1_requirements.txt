@@ -50,6 +50,6 @@ tensorflow_datasets==3.1.0
 timeout_decorator==0.4.1
 torchtext==0.6.0
 torchvision==0.6.1
-uvicorn==0.11.5
+uvicorn==0.11.7
 wandb==0.9.1
 wget==3.2
