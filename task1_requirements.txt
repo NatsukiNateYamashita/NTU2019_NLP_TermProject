@@ -37,7 +37,7 @@ py3nvml==0.2.6
 pydantic==1.5.1
 pythainlp==2.1.4
 pytorch_lightning==0.8.0
-PyYAML==5.3.1
+PyYAML==5.4
 rouge==1.0.0
 rouge_score==0.0.4
 sacrebleu==1.4.10
