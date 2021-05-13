@@ -34,7 +34,7 @@ Pillow==7.1.2
 psutil==5.7.0
 ptvsd==4.3.2
 py3nvml==0.2.6
-pydantic==1.5.1
+pydantic==1.6.2
 pythainlp==2.1.4
 pytorch_lightning==0.8.0
 PyYAML==5.3.1
