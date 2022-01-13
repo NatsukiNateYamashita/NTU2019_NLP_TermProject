@@ -30,7 +30,7 @@ keras2onnx==1.7.0
 MeCab==0.996.2
 mosestokenizer==1.1.0
 onnxruntime==1.3.0
-Pillow==7.1.2
+Pillow==9.0.0
 psutil==5.7.0
 ptvsd==4.3.2
 py3nvml==0.2.6
